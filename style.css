@@ -1,0 +1,28 @@
+.digital-clock {
+    background-color: #555;
+    color: #fff;
+    padding: 17rem;
+    text-align: center;
+    font-family: 'SF Pro Display', sans-serif;                                      
+    font-weight: 900;
+    font-family: geneva;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    border-radius: 12px;
+    font-size: 5em;
+}
+
+body {
+    background-color: #8098ff;
+    font-family: 'SF Pro Display', sans-serif;                                      
+    font-weight: 900;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    height: 100vh;
+}
+  
