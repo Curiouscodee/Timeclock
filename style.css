@@ -3,9 +3,8 @@
     color: #fff;
     padding: 17rem;
     text-align: center;
-    font-family: 'SF Pro Display', sans-serif;                                      
+    font-family: sans-serif;                                      
     font-weight: 900;
-    font-family: geneva;
     position: relative;
     align-items: center;
     justify-content: center;
@@ -17,7 +16,7 @@
 
 body {
     background-color: #8098ff;
-    font-family: 'SF Pro Display', sans-serif;                                      
+    font-family: sans-serif;                                      
     font-weight: 900;
     align-items: center;
     justify-content: center;
